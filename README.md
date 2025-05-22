@@ -1,5 +1,5 @@
 <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/x-labs-86/hosting-assets/main/whatsapp-sender/icon.png">
-<img src="https://raw.githubusercontent.com/x-labs-86/hosting-assets/main/wa-sender/icon.png" width="128">
+<img src="https://raw.githubusercontent.com/x-labs-myid/app-info/refs/heads/main/icons/wa-sender.png" width="128">
 
 # WA Sender
 
